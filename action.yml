@@ -1,6 +1,6 @@
-name: 'Git pr release action'
+name: 'PR release action'
 description: 'Create a release pull-request.'
-author: 'grassedge'
+author: 'kaskar2008'
 inputs:
   owner:
     description: "Default is current reopsitory's owner."
